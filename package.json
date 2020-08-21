@@ -1,0 +1,33 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "this is lidia's landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FastYarProject/Bioli.git"
+  },
+  "author": "Aleksandr Pakhomov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FastYarProject/Bioli/issues"
+  },
+  "homepage": "https://github.com/FastYarProject/Bioli#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp.spritesmith": "^6.11.0",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0"
+  }
+}
